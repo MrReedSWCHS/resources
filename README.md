@@ -3,4 +3,4 @@
 ```ruby
 play 52
 ```
-[new file](new.htm) 
+[new file](new.md) 
