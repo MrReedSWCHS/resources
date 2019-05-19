@@ -2,6 +2,8 @@
 
 
 ## Resources for learners
+
+
  Link | Info 
  --- | ---
  [mehackit](https://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html) | Excellent and comprehensive course from beginner to expert. Lots of music theory graphics/explanations 
